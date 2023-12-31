@@ -1,9 +1,13 @@
-WBS Coding School
+Fair Warning:
+This repository contains the final notebooks of our bootcamp projects - just as they are at the end of the module.  (Note! It's nothing like a sample solution but the current status (!) of my ongoing project notebook).
 
-Data Science Bootcamp #023
-
+---------------------------------------------------
 06.10.2023 - 18.02.2024
 
+WBS Coding School 
+
+Data Science Bootcamp #023
+---------------------------------------------------
 
 Modules:
 
